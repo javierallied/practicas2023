@@ -1,0 +1,7 @@
+.mainBox{
+    text-align: center;
+}
+
+#username, #password, #signInButton{
+    margin-top: 5%;
+}
